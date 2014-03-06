@@ -167,7 +167,8 @@ In addition, you are expected to have read and understood the CS Academic Integr
 your course work, including homeworks and projects, are to be strictly your own work. You can talk over general
 principles and concepts about an assignment with others, but copying, sharing materials, or even looking at, another
 student’s solutions or code, either on paper, on the computer or whiteboard, is not allowed.
-CS Academic Integrity policies:
+
+####CS Academic Integrity policies:
 
 * Read “A Culture of Honesty”, the UGA academic honesty policies and CS Academic Integrity policies.
 * You must not allow others to copy or look at your work.
