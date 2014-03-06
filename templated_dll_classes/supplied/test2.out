@@ -1,0 +1,70 @@
+
+empty listOfDoubles successfully created
+
+and confirmed to be empty. 
+
+Pushed 1.1 on front 
+List now contains: 1.1
+
+Pushed 2.2 on front 
+List now contains: 2.2 , 1.1
+
+Pushed 3.3 on front 
+List now contains: 3.3 , 2.2 , 1.1
+
+Pushed 4.4 on front 
+List now contains: 4.4 , 3.3 , 2.2 , 1.1
+
+Pushed 5.5 on front 
+List now contains: 5.5 , 4.4 , 3.3 , 2.2 , 1.1
+
+Pushed 6.6 on front 
+List now contains: 6.6 , 5.5 , 4.4 , 3.3 , 2.2 , 1.1
+
+and is now not empty. 
+
+listOfDoubles contains 6 elements. 
+Specifically: 6.6 , 5.5 , 4.4 , 3.3 , 2.2 , 1.1
+
+Now we double all values: and get ...: 13.2 , 11 , 8.8 , 6.6 , 4.4 , 2.2
+
+Now we reverse the list and get: 2.2 , 4.4 , 6.6 , 8.8 , 11 , 13.2
+
+and reverse it again and get: 13.2 , 11 , 8.8 , 6.6 , 4.4 , 2.2
+
+Backwards that is ... 2.2 , 4.4 , 6.6 , 8.8 , 11 , 13.2
+
+The item at the front is: 13.2
+
+The item at the back is: 2.2
+
+Popped from the front, listOfDoubles now contains 5 elements. 
+Specifically: 11 , 8.8 , 6.6 , 4.4 , 2.2
+
+Backwards that is ... 2.2 , 4.4 , 6.6 , 8.8 , 11
+
+Popped from the front, listOfDoubles now contains 4 elements. 
+Specifically: 8.8 , 6.6 , 4.4 , 2.2
+
+Backwards that is ... 2.2 , 4.4 , 6.6 , 8.8
+
+Popped from the front, listOfDoubles now contains 3 elements. 
+Specifically: 6.6 , 4.4 , 2.2
+
+Backwards that is ... 2.2 , 4.4 , 6.6
+
+Popped from the front, listOfDoubles now contains 2 elements. 
+Specifically: 4.4 , 2.2
+
+Backwards that is ... 2.2 , 4.4
+
+Popped from the front, listOfDoubles now contains 1 elements. 
+Specifically: 2.2
+
+Backwards that is ... 2.2
+
+Popped from the front, listOfDoubles now contains 0 elements. 
+Specifically: 
+Backwards that is ... 
+Can we reverse an empty list??
+Yes!! 

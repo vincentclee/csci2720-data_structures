@@ -1,0 +1,19 @@
+insert 56
+delete 200
+insert 22
+insert 99
+insert 26
+insert 110
+insert 99
+insert 16
+insert 60
+delete 56
+delete 26
+insert 104
+insert 158
+insert 18
+insert 9
+delete 22
+delete 99
+
+

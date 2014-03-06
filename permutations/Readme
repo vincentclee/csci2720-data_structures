@@ -1,0 +1,36 @@
+Vincent Lee
+
+Permutation Generator
+This program generates all permutations of objects
+
+To compile:
+make compile
+
+To run:
+make run
+
+To run sample double:
+make run1
+
+To run sample double with spaces:
+make run2
+
+To run with preset type:
+make run [data type] [spacer]
+
+All posible run config:
+./permutations
+./permutations int
+./permutations int true
+./permutations double
+./permutations double true
+./permutations char
+./permutations char true
+./permutations string
+./permutations string true
+
+To clean:
+make clean
+
+
+

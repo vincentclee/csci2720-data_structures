@@ -1,0 +1,75 @@
+
+empty listOfInts successfully created
+
+and confirmed to be empty. 
+
+Pushed 1 on front 
+List now contains: 1
+
+Pushed 2 on front 
+List now contains: 2 , 1
+
+Pushed 3 on front 
+List now contains: 3 , 2 , 1
+
+Pushed 4 on front 
+List now contains: 4 , 3 , 2 , 1
+
+Pushed 5 on front 
+List now contains: 5 , 4 , 3 , 2 , 1
+
+Pushed 6 on front 
+List now contains: 6 , 5 , 4 , 3 , 2 , 1
+
+Pushed 0 on back 
+List now contains: 6 , 5 , 4 , 3 , 2 , 1 , 0
+
+and is now not empty. 
+
+listOfInts contains 7 elements. 
+Specifically: 6 , 5 , 4 , 3 , 2 , 1 , 0
+
+Now we double all values: and get ...: 12 , 10 , 8 , 6 , 4 , 2 , 0
+
+Now we reverse the list and get: 0 , 2 , 4 , 6 , 8 , 10 , 12
+
+and reverse it again and get: 12 , 10 , 8 , 6 , 4 , 2 , 0
+
+Backwards that is ... 0 , 2 , 4 , 6 , 8 , 10 , 12
+
+The item at the front is: 12
+
+The item at the back is: 0
+
+Popped from the front, listOfInts now contains 6 elements. 
+Specifically: 10 , 8 , 6 , 4 , 2 , 0
+
+Backwards that is ... 0 , 2 , 4 , 6 , 8 , 10
+
+Popped from the front, listOfInts now contains 5 elements. 
+Specifically: 8 , 6 , 4 , 2 , 0
+
+Backwards that is ... 0 , 2 , 4 , 6 , 8
+
+Popped from the front, listOfInts now contains 4 elements. 
+Specifically: 6 , 4 , 2 , 0
+
+Backwards that is ... 0 , 2 , 4 , 6
+
+Popped from the front, listOfInts now contains 3 elements. 
+Specifically: 4 , 2 , 0
+
+Backwards that is ... 0 , 2 , 4
+
+Popped from the front, listOfInts now contains 2 elements. 
+Specifically: 2 , 0
+
+Backwards that is ... 0 , 2
+
+Popped from the front, listOfInts now contains 1 elements. 
+Specifically: 0
+
+Backwards that is ... 0
+
+Can we reverse an empty list??
+Yes!! 

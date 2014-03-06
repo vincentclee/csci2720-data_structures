@@ -1,0 +1,24 @@
+Vincent Lee
+CSCI 2720 Data Structures
+Project 1: DLL classes
+
+To compile the program:
+make compile
+
+To run test1:
+make run
+
+To run test2:
+make run2
+
+To output results of test1 to file:
+make file
+
+To output results of test2 to file:
+make file2
+
+To clean the program:
+make clean
+
+NOTE: Grading sheet was not attached.
+

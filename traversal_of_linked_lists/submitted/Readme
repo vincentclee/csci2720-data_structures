@@ -1,0 +1,38 @@
+Vincent Lee
+CSCI 2720 - Data Structures
+F. Sena Arpinar
+February 15, 2013
+
+///////////////////////////////
+//                           //
+//        Project 1          //
+// Traversal of Linked Lists //
+//                           //
+///////////////////////////////
+
+Implemented:
+Two pointers that move only forward in the list
+(similar to algorithm 3.9 in the textbook)
+
+The program takes in one command line argument.
+The one argument is the input file.
+This program was written and run on nike.
+Other system support not guaranteed or supported.
+Per the instructions "make sure your code compiles and runs on nike"
+No other system compatiblilty was to be included.
+
+How to Compile, Run, and Clean the program.
+To Compile:
+make compile
+
+To Run:
+make run1
+make run2
+make run3
+./runner input1.txt
+./runner input2.txt
+./runner input3.txt
+
+To Clean:
+make clean
+

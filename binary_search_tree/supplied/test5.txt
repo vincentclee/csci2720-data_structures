@@ -1,0 +1,16 @@
+insert 50
+insert 60
+insert 40
+insert 30
+insert 20
+insert 10
+insert 35
+insert 25
+delete 40
+insert 70
+insert 75
+insert 65
+insert 62
+delete 60
+
+

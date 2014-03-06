@@ -1,0 +1,300 @@
+I num0 1
+I num1 1
+I num2 1
+I num3 1
+I num4 1
+I num5 1
+I num6 1
+I num7 1
+I num8 1
+I num9 1
+I num10 1
+I num11 1
+I num12 1
+I num13 1
+I num14 1
+I num15 1
+I num16 1
+I num17 1
+I num18 1
+I num19 1
+I num20 1
+I num21 1
+I num22 1
+I num23 1
+I num24 1
+I num25 1
+I num26 1
+I num27 1
+I num28 1
+I num29 1
+I num30 1
+I num31 1
+I num32 1
+I num33 1
+I num34 1
+I num35 1
+I num36 1
+I num37 1
+I num38 1
+I num39 1
+I num40 1
+I num41 1
+I num42 1
+I num43 1
+I num44 1
+I num45 1
+I num46 1
+I num47 1
+I num48 1
+I num49 1
+I num50 1
+I num51 1
+I num52 1
+I num53 1
+I num54 1
+I num55 1
+I num56 1
+I num57 1
+I num58 1
+I num59 1
+I num60 1
+I num61 1
+I num62 1
+I num63 1
+I num64 1
+I num65 1
+I num66 1
+I num67 1
+I num68 1
+I num69 1
+I num70 1
+I num71 1
+I num72 1
+I num73 1
+I num74 1
+I num75 1
+I num76 1
+I num77 1
+I num78 1
+I num79 1
+I num80 1
+I num81 1
+I num82 1
+I num83 1
+I num84 1
+I num85 1
+I num86 1
+I num87 1
+I num88 1
+I num89 1
+I num90 1
+I num91 1
+I num92 1
+I num93 1
+I num94 1
+I num95 1
+I num96 1
+I num97 1
+I num98 1
+I num99 1
+S num0
+D num0
+S num1
+D num1
+S num2
+D num2
+S num3 
+D num3
+S num4 
+D num4
+S num5 
+D num5
+S num6 
+D num6
+S num7 
+D num7
+S num8 
+D num8
+S num9 
+D num9
+S num10 
+D num10
+S num11 
+D num11
+S num12 
+D num12
+S num13 
+D num13
+S num14 
+D num14
+S num15 
+D num15
+S num16 
+D num16
+S num17 
+D num17
+S num18 
+D num18
+S num19 
+D num19
+S num20 
+D num20
+S num21 
+D num21
+S num22 
+D num22
+S num23 
+D num23
+S num24 
+D num24
+S num25 
+D num25
+S num26 
+D num26
+S num27 
+D num27
+S num28 
+D num28
+S num29 
+D num29
+S num30 
+D num30
+S num31 
+D num31
+S num32 
+D num32
+S num33 
+D num33
+S num34 
+D num34
+S num35 
+D num35
+S num36 
+D num36
+S num37 
+D num37
+S num38 
+D num38
+S num39 
+D num39
+S num40 
+D num40
+S num41 
+D num41
+S num42 
+D num42
+S num43 
+D num43
+S num44 
+D num44
+S num45
+D num45
+S num46 
+D num46
+S num47 
+D num47
+S num48 
+D num48
+S num49 
+D num49
+S num50 
+D num50
+S num51 
+D num51
+S num52 
+D num52
+S num53 
+D num53
+S num54 
+D num54
+S num55 
+D num55
+S num56 
+D num56
+S num57 
+D num57
+S num58 
+D num58
+S num59 
+D num59
+S num60 
+D num60
+S num61 
+D num61
+S num62
+D num62
+S num63
+D num63
+S num64
+D num64
+S num65 
+D num65
+S num66 
+D num66
+S num67
+D num67
+S num68 
+D num68
+S num69 
+D num69
+S num70 
+D num70
+S num71
+D num71
+S num72 
+D num72
+S num73
+D num73
+S num74
+D num74
+S num75 
+D num75
+S num76 
+D num76
+S num77 
+D num77
+S num78 
+D num78
+S num79 
+D num79
+S num80 
+D num80
+S num81 
+D num81
+S num82 
+D num82
+S num83 
+D num83
+S num84 
+D num84
+S num85 
+D num85
+S num86
+D num86
+S num87 
+D num87
+S num88 
+D num88
+S num89 
+D num89
+S num90 
+D num90
+S num91 
+D num91
+S num92
+D num92
+S num93
+D num93
+S num94
+D num94
+S num95
+D num95
+S num96 
+D num96
+S num97 
+D num97
+S num98 
+D num98
+S num99
+D num99

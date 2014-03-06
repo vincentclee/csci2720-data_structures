@@ -1,0 +1,14 @@
+Number of nodes in the bst: 5
+Height of the bst: 2
+Pre-order traversal:
+9 -8 -3 24 18 
+In-order traversal:
+-8 -3 9 18 24 
+Post-order traversal:
+-3 -8 18 24 9 
+Level-order traversal:
+9 -8 24 -3 18 
+Extra credit tree visualization:
+     9
+-8      24
+  -3  18

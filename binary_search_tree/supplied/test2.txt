@@ -1,0 +1,26 @@
+insert 8
+delete 8
+insert 8
+insert 3
+insert 6
+insert 20
+insert 23
+insert 13
+delete 100
+insert 20
+insert -2
+insert 7
+insert 4
+insert 9
+insert 32
+insert 0
+insert -3
+insert 21
+insert 15
+delete 21
+delete -3
+delete 3
+insert -5
+delete 6
+insert 17
+

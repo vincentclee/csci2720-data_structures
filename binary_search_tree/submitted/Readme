@@ -1,0 +1,37 @@
+Vincent Lee
+CSCI2720 Summer 2013
+
+Project 2: Binary Search Tree
+
+To compile the program:
+make compile
+
+To run test1.txt:
+make run
+To run test2.txt:
+make run2
+To run test3.txt:
+make run3
+To run test4.txt:
+make run4
+To run test5.txt:
+make run5
+To run insertOnlyTest.txt:
+make run6
+To run insertDeleteTest.txt:
+make run7
+To run additional txt files:
+./proj2 [fileName with .txt extension]
+
+To clean the program executable:
+make clean
+
+Note: The visualization prints out all empty nodes with a "x".
+It may block the program printout. To fix this, maximize the terminal window
+on mac, or putty window on windows. This should allow all program print up to 
+show up by scrolling up the window.
+
+Thanks,
+Vincent
+
+

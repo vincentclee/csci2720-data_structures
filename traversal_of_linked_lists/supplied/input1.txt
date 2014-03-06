@@ -1,0 +1,12 @@
+I  element1 1
+I  element2 2
+I  element3 3
+I  element4 4
+I  element5 5
+I  element6 6
+D  element6
+D  element5
+I  element7 2
+S  element1 
+S  element2
+S  element7
